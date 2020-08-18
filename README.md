@@ -3,5 +3,5 @@
 >>I will upload a code in java and python on my repository for the following 10 days
 
 >>>https://www.hackerrank.com/acharyadiya40 link to my hackkerank profile 
->>>have a nice day
->>>currently a student of 2nd sem vvce(ISE)
+>>>have a nice day✨✨
+>>currently a student of 2nd sem vvce(ISE)
