@@ -14,4 +14,4 @@ if __name__ == '__main__':
     d = int(nd[1])
 
     a = list(map(int, input().rstrip().split()))
-    for rotate in (a[d:] + a[0:d]): print (rotate ,end=" ")
+    for rotate in (a[d:] + a[0:d]): print (rotate ,end=" ") #solution code
