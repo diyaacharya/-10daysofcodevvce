@@ -9,7 +9,7 @@ import java.util.regex.*;
 
     
 
-public class Solution
+public class day1_arrays
 {
     public static void main(String[] args)
     {
