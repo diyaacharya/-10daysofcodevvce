@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class day2_jcycledetectionj {
 
     static class SinglyLinkedListNode {
         public int data;
