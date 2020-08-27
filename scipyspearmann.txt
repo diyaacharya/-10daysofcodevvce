@@ -1,0 +1,30 @@
+Correlation is a measure of the association between two variables.
+
+ When we do not know the distribution of the variables, we must use nonparametric rank correlation methods.
+ 
+   Spearman’s rank correlation can be calculated in Python using the spearmanr() SciPy function.
+
+The function takes two real-valued samples as arguments and returns both the correlation coefficient in the range between -1 and 1 and the p-value for interpreting the significance of the coefficient.
+example:
+
+from scipy.stats import spearmanr
+x = [1, 2, 3]
+
+x_corr = [2, 4, 6]
+corr, p_value = spearmanr(x, x_corr)
+print corr
+OUTPUT
+1.0
+print p_value
+OUTPUT
+0.0
+
+x_uncorr = [5, 6, 5]
+corr, p_value = spearmanr(x, x_uncorr)
+print corr
+OUTPUT
+0.0
+print p_value
+OUTPUT
+1.0
+
