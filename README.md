@@ -1,4 +1,4 @@
-#hello everyone this  my repository on 10 days of  code vvce which is aimed  at promoting compititive programming  among students .
+#hello everyone this  my repository on 10 days of  code vvce .
 😀 
 >>I will upload a code in java and python on my repository for the following 10 days
 
